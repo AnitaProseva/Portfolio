@@ -1,0 +1,12 @@
+.col-lg-4 img{
+    width: 100%;
+    max-width: 200px;
+}
+
+.go-to-middle{
+    text-align: center;
+}
+
+.go-to-right{
+    text-align: right;
+}
